@@ -3,9 +3,9 @@ Doing Sentiment Analysis NLP task
 
 to run docker image 
 pull with
-
+docker pull kumar2700/sentiment-app:latest
 run with
-
+docker run -p 8501:8501 kumar2700/sentiment-app
 
 
 This project focuses on classifying mental health-related text into sentiment categories using NLP + Machine Learning + Deep Learning (ANN).
