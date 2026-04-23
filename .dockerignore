@@ -1,0 +1,7 @@
+Dockerfile
+
+*.ipynb
+*.csv
+*.joblib
+.git
+.gitignore
