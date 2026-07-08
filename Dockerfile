@@ -8,5 +8,6 @@ COPY app.py .
 COPY sentiment_model.pth .
 COPY tfidf_vectorizer.pkl .
 COPY label_encoder.pkl .
+COPY shap_explainer.pkl .
 EXPOSE 8501
 CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
