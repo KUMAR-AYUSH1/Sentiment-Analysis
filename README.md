@@ -14,7 +14,6 @@ It also includes a Streamlit web app and Dockerized deployment.
 Dataset
 Source: Kaggle
 Dataset: Sentiment Analysis for Mental Health
-Size: ~30MB
 🔗 Link: https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health
 
 Project Workflow
